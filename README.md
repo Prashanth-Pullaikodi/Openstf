@@ -21,7 +21,7 @@ docker-compose up -d --build
  ```
 Point your browser to the IP you chose,login by providing any username and valid e-mail.
 
-# On mac machine
+# adb connect On mac machine docker
 
 On Mac , /dev/bus/usb are not hanlde in way that in linux and windows.dev us  are not available on containers running on mac docker desktop.
 
