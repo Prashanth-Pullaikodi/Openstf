@@ -3,12 +3,13 @@ OpenSTF Docker deploy
 
 # How to setup OpenSTF in Mac? 
 
-Pre requisites .
+Prerequisites ..
 
+ ```bash
 install docker
 install docker-compose
 Clone this repo https://github.com/nikosch86/stf-poc 
-
+ ```
 # Deployment
 
 Note:Update .env file with Ip of your host.
