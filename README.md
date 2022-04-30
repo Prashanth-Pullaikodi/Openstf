@@ -14,9 +14,12 @@ Clone this repo https://github.com/nikosch86/stf-poc
 
 Note:Update .env file with Ip of your host.
 
-Run docker-compose up -d --build
-Point your browser to the IP you chose,
-login by providing any username and valid e-mail.
+To sping up container run: 
+
+ ```bash
+docker-compose up -d --build
+ ```
+Point your browser to the IP you chose,login by providing any username and valid e-mail.
 
 # On mac machine
 
