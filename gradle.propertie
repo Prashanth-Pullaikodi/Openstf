@@ -1,1 +1,6 @@
 version=10.5.23
+should replace to:
+version=10.5.23-SNAPSHOT
+
+Simple command to append the string after match
+sed 's/.*version=.*/&-SNAPSHOT/' gradle.propertie
